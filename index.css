@@ -2,4 +2,11 @@ html {
     background-color: black;
     color:aqua;
     font-family: serif;
+    text-align: center;
+}
+
+h1{
+    text-decoration: underline, overline;
+    text-transform: uppercase;
+    font-weight: bold;
 }
